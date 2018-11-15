@@ -1,0 +1,1 @@
+(function(){var n;n=function(){function n(){var n;return n=angular.module("DetailApp",["ApiFactory","SystemFactory","ui.bootstrap","blockUI","sn.addthis"]),n.config(["blockUIConfig",function(n){return n.message="Please Wait...",n.autoBlock=!1}]),n.run(["$rootScope",function(n){}]),n}return n}(),window.APPMarket.Frontend.DetailApp=new n}).call(this);
